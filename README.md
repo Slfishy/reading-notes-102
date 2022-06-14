@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# The Importance of Growing your Mindset.
+> “Self, you need to embrace the growth mindset. The growth mindset is cool.”
 
-You can use the [editor on GitHub](https://github.com/Slfishy/reading-notes-102/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+It was an interesting concept to read about. These skills don't come natural to me, but I'd like them to be. 
+## I can learn.
+I am applying mindset growth to grow my mindset, if that makes any sense. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I've made it a habit to steer clear of challenges and trouble, when I should be welcoming them as a means to grow and learn more.
+- Don't avoid things because they're stressful or difficult.
+- Find that conflict can teach you important things.
+- A bump in the road doesn't mean you should give up. 
 
-```markdown
-Syntax highlighted code block
+It's easy to want to quit and go do something you'd rather do when you hit a wall.
+1. Take 5-10 minutes to break.
+2. Step away to refresh yourself.
+3. Come back and try again. Keep going.
+ 
+## You can stop, just come back.
 
-# Header 1
-## Header 2
-### Header 3
+It's hard, but it's not hopeless. It's not useless or not worth it just because it's hard.
+Even if there's struggle, it's worth it to persevere, and you'll feel better for it once you've finished. 
+- You feel tired.
+- You feel like it's not worth it.
+- You think it doesn't matter in the long run.
 
-- Bulleted
-- List
+### Those are the thought processes we want to change by altering our **_Growth Mindset._**
+1. It's important to apply effort to things. You feel better once you're done.
+2. Doing something that's hard will make you feel accomplished.
+3. Putting things off will make you feel awful.
+> "No pain, no gain!"
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+When it comes to criticizng my performance of the day, I'm not the most positive, but I'm trying to turn that around.
 
-[Link](url) and ![Image](src)
-```
+Instead of concluding that I'm not great at something, I'm better than I was at the beginning of the day.
+I had some hangups, but I didn't give up, even though my head was screaming at me to back down and cry. _I'm LEARNING._
+I was hung up on getting my system in check, so I could do downloads. I had to restart my computer a few times and troubleshot some issues, but I got through it, with help, and got everything downloaded and extentions added. I completed setup. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<!-- I'm having trouble with the assignments though... I hope I'm doing this right. --> 
 
-### Jekyll Themes
+I _will_ improve. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Slfishy/reading-notes-102/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Others' success can be discouraging
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I often think I'm not good enough or that I'm too far behind and it's hopeless. That I'm not cut out for this. I'm jealous of the ease in which others succeed. 
+
+I don't see them as a threat, necessarily, but I feel inferior and smaller than them. Worthless. That's where _Mindset Growth_ comes in.
+
+_They_ began somewhere, too. They started _small,_ too. 
+I often think that I'm slower and that it takes longer for me to grasp things, but I'll get the hang of it.
+
+### Things may be confusing now, but they won't be for long. 
+
+We'll *ALL* be okay and will grow with the concept of _Mindset Growth._
+
+[This review is based off of Steve Haffenden's article on Mindset Growth.](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+<!-- I hope I did this right -->
