@@ -1,4 +1,4 @@
-# Table of Contents
+# Download Party
 
 [Class 1](Reading-01.md)
 [Class 2](Reading-02.md)
