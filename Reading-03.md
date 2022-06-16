@@ -15,4 +15,4 @@ Git is a *version control system* that lets you to work on a **local** copy of a
 
 1. Modified, meaning the file has been changed or edited but not committed.
 2. Staged, which means the file is flagged as ready to be committed.
-3. Committed. This means the file is stored in local database.
+3. Committed. This means the file is stored in a local database.
