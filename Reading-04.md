@@ -9,7 +9,7 @@
    
    <p>Firefox is a good browser but I like Google Chrome better.</p>
    
-  <h2> Mozilla and Google Chrome are better than: </h2>
+  <h2> Mozilla Firefox and Google Chrome are better than: </h2>
   
 <ul>
   <li>Microsoft Edge</li>
